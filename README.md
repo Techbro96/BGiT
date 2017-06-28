@@ -5,7 +5,6 @@ We have created a Parralax website as a Intro Site for our college .We have used
 and We have used some standard JQuery Libraries for Parralex effect and Javascript Slider as well.
 At the Backend it fetches the Data of the events that are to be shown on the notification and we have aslo linked the Time Table of the diffrent Streams in the college.
 ## ScreenShots
-![Intro Page]({{site.baseurl}}/https://bgit.000webhostapp.com/ScreenShots/Untitled.png)
 
 <p align="center">
 	<img src="https://bgit.000webhostapp.com/ScreenShots/Untitled.png" width="100%"/>
@@ -21,5 +20,6 @@ At the Backend it fetches the Data of the events that are to be shown on the not
     
 </p>
 ## How Get it Up and working..
+You need to have php version **[PHP 5.6.30](https://www.apachefriends.org/download.html "link")
+you can download xamp of that version and get the project ready 
 
-![Intro Page]({{site.baseurl}}//Untitled.png)
