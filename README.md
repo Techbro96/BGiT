@@ -27,5 +27,5 @@ Create a database name: bgit
 then import the sql file called bgit.sql in it 
 The database should look like this 
 <p align="center">
- <img src="https://bgit.000webhostapp.com/ScreenShots/sendmail.PNG" width="100%"/>
+ <img src="https://bgit.000webhostapp.com/ScreenShots/php.PNG" width="100%"/>
 </p>
