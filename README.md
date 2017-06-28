@@ -20,6 +20,6 @@ At the Backend it fetches the Data of the events that are to be shown on the not
     
 </p>
 ## How Get it Up and working..
-You need to have php version **[PHP 5.6.30](https://www.apachefriends.org/download.html "link")
+You need to have php version [PHP 5.6.30](https://www.apachefriends.org/download.html "link")
 you can download xamp of that version and get the project ready 
 
