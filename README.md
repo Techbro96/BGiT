@@ -34,5 +34,5 @@ The database should look like this
 
 You are ready with website WOLA!
 
-Depending on you Structure of the project the link show look showwhat like this :-  
+Depending on you Structure of the project the link show look somewhat like this :-  
 http://localhost/projects/bgit2/BGiT.php 
