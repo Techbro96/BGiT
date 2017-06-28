@@ -10,4 +10,7 @@ At the Backend it fetches the Data of the events that are to be shown on the not
 ![Intro Page]({{site.baseurl}}//Untitled.png)
 <p align="center">
 	<img src="https://bgit.000webhostapp.com/ScreenShots/Untitled.png" width="350"/>
+    <img src="https://bgit.000webhostapp.com/ScreenShots/home.PNG" width="350"/>
+    <img src="https://bgit.000webhostapp.com/ScreenShots/Untitled.png" width="350"/>
+    
 </p>
