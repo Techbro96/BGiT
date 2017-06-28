@@ -5,5 +5,6 @@ We have created a Parralax website as a Intro Site for our college .We have used
 and We have used some standard JQuery Libraries for Parralex effect and Javascript Slider as well.
 At the Backend it fetches the Data of the events that are to be shown on the notification and we have aslo linked the Time Table of the diffrent Streams in the college.
 ## ScreenShots
-
+![Intro Page]({{site.baseurl}}/https://bgit.000webhostapp.com/ScreenShots/Untitled.png)
 ##How Get it Up and working..
+![Intro Page]({{site.baseurl}}//Untitled.png)
