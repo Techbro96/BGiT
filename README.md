@@ -17,7 +17,7 @@ At the Backend it fetches the Data of the events that are to be shown on the not
     <img src="https://bgit.000webhostapp.com/ScreenShots/contactus.PNG" width="100%"/>
     <img src="https://bgit.000webhostapp.com/ScreenShots/sendmail.PNG" width="100%"/>
 </p>
-## How Get it Up and working..
+##How Get it Up and working..
 
 You need to have php version [PHP 5.6.30](https://www.apachefriends.org/download.html "link")
 you can download xamp of that version and get the project ready 
