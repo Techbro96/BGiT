@@ -9,17 +9,16 @@ At the Backend it fetches the Data of the events that are to be shown on the not
 <p align="center">
 	<img src="https://bgit.000webhostapp.com/ScreenShots/Untitled.png" width="100%"/>
     <img src="https://bgit.000webhostapp.com/ScreenShots/home.PNG" width="100%"/>
-     <img src="https://bgit.000webhostapp.com/ScreenShots/event.PNG" width="100%"/>
-      <img src="https://bgit.000webhostapp.com/ScreenShots/about.PNG" width="100%"/>
-       <img src="https://bgit.000webhostapp.com/ScreenShots/tab.PNG" width="100%"/>
-        <img src="https://bgit.000webhostapp.com/ScreenShots/tab%20tt.PNG" width="100%"/>
-         <img src="https://bgit.000webhostapp.com/ScreenShots/tt.PNG" width="100%"/>
-           <img src="https://bgit.000webhostapp.com/ScreenShots/contactus.PNG" width="100%"/>
-           <img src="https://bgit.000webhostapp.com/ScreenShots/sendmail.PNG" width="100%"/>
-
-    
+    <img src="https://bgit.000webhostapp.com/ScreenShots/event.PNG" width="100%"/>
+    <img src="https://bgit.000webhostapp.com/ScreenShots/about.PNG" width="100%"/>
+    <img src="https://bgit.000webhostapp.com/ScreenShots/tab.PNG" width="100%"/>
+    <img src="https://bgit.000webhostapp.com/ScreenShots/tab%20tt.PNG" width="100%"/>
+    <img src="https://bgit.000webhostapp.com/ScreenShots/tt.PNG" width="100%"/>
+    <img src="https://bgit.000webhostapp.com/ScreenShots/contactus.PNG" width="100%"/>
+    <img src="https://bgit.000webhostapp.com/ScreenShots/sendmail.PNG" width="100%"/>
 </p>
 ## How Get it Up and working..
+
 You need to have php version [PHP 5.6.30](https://www.apachefriends.org/download.html "link")
 you can download xamp of that version and get the project ready 
 
