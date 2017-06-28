@@ -22,10 +22,16 @@ At the Backend it fetches the Data of the events that are to be shown on the not
 
 
 You need to have php version [PHP 5.6.30](https://www.apachefriends.org/download.html "link")
-you can download xamp of that version and get the project ready 
+you can download xamp of that version and get the project ready.
+
 Create a database name: bgit
+
 then import the sql file called bgit.sql in it 
 The database should look like this 
 <p align="center">
  <img src="https://bgit.000webhostapp.com/ScreenShots/php.PNG" width="200"/>
 </p>
+
+You are readywith website WOLA!
+Depending on you Structure of the project the link show look showwhat like this 
+http://localhost/projects/bgit2/BGiT.php 
