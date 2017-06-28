@@ -26,12 +26,13 @@ you can download xamp of that version and get the project ready.
 
 Create a database name: bgit
 
-then import the sql file called bgit.sql in it 
+Then import the sql file called bgit.sql in it .
 The database should look like this 
 <p align="center">
  <img src="https://bgit.000webhostapp.com/ScreenShots/php.PNG" width="200"/>
 </p>
 
-You are readywith website WOLA!
-Depending on you Structure of the project the link show look showwhat like this 
+You are ready with website WOLA!
+
+Depending on you Structure of the project the link show look showwhat like this :-  
 http://localhost/projects/bgit2/BGiT.php 
