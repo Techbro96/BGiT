@@ -17,7 +17,7 @@ At the Backend it fetches the Data of the events that are to be shown on the not
     <img src="https://bgit.000webhostapp.com/ScreenShots/contactus.PNG" width="100%"/>
     <img src="https://bgit.000webhostapp.com/ScreenShots/sendmail.PNG" width="100%"/>
 </p>
-### How To get it Up and Running
+<h2>## How To get it Up and Running</h2>
 
 
 
